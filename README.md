@@ -4,6 +4,10 @@
 
 UserAgent is a Go library that parses HTTP User Agents.
 
+## Note
+
+This is a fork just to keep control of what is added and to remove the underscore from the package name, refer to the original library for bugs and pull requests.
+
 ## Usage
 
 ~~~ go
